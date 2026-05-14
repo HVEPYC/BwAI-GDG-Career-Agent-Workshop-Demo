@@ -1,0 +1,51 @@
+**Job Title:** Junior Python Developer - Sparkle Squad
+
+**Company:** RainbowSparkles
+
+**Location:** Remote (with occasional travel to Austin, TX)
+
+**About RainbowSparkles:**
+
+At RainbowSparkles, we believe in bringing joy and innovation to the world of personalized learning experiences. We’re a small, passionate team dedicated to building beautiful, impactful 
+platforms that make learning more engaging and accessible. We value creativity, collaboration, and a good dose of sparkle! We’re looking for someone who’s eager to learn, grow, and 
+contribute their skills to our vibrant team.
+
+**Job Summary:**
+
+As a Junior Python Developer on the Sparkle Squad, you’ll be working alongside experienced developers to build, maintain, and enhance our core learning platform and systems. You'll learn 
+by doing, contributing to exciting projects, and helping us create even more rainbow-bright solutions. This is an amazing opportunity to kickstart your Python development career and grow 
+your skills in a supportive and fun environment.
+
+**Responsibilities:**
+
+* **Code Development:** Write clean, well-documented, and testable Python code.
+* **Learning & Growth:** Work closely with senior developers to learn best practices, new technologies, and our development processes.
+* **Bug Fixing & Troubleshooting:** Assist in identifying, investigating, and resolving software bugs and issues.
+* **Testing:** Participate in writing and executing unit tests and integration tests.
+* **Collaboration:** Work effectively within a team, contributing ideas and participating in code reviews.
+* **Documentation:** Help maintain and update technical documentation.
+* **Small Project Contributions:** Take ownership of small, well-defined development tasks.
+* **Embrace the Sparkle:** Contribute to a positive and collaborative team environment!
+
+**Qualifications:**
+
+* **Education:** Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+* **Programming Fundamentals:** Solid understanding of programming concepts, including data structures and algorithms.
+* **Python Experience:** Familiarity with Python programming language and its core libraries (e.g., NumPy, Pandas, Requests).
+* **Version Control:** Experience with Git and GitHub.
+* **Problem-Solving Skills:** A keen eye for detail and a desire to solve challenging problems.
+* **Bonus Points:** Experience with Django, familiarity with PostgreSQL.
+
+**What We Offer:**
+
+* **Salary:** $65,000 - $85,000 per year (commensurate with experience)
+* Flexible Work Environment (Remote-first)
+* Opportunities for professional development and training.
+* A fun, collaborative, and supportive team culture.
+* Company Swag (including rainbow-themed hoodies!)
+
+**To Apply:**
+
+Please submit your resume and a brief cover letter (telling us why you’d love to join the RainbowSparkles team!) to jobs@rainbowsparkles.com
+
+**Let’s build something amazing!**
